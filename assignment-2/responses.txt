@@ -1,1 +1,3 @@
-Hello this is me writing in my text 
+A directory is a heirachial file that kind of acts of a tree with branches coming off leading to other branches of data.
+Good way to see what changes you've made incase you made a mistake and need to go back and find the cause of that mistake.
+My favorite medium is probably digital art, because you can use many mediums throughout it, the possibilities are endless.
