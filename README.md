@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# JackSpringMART341-WebDesign
 Intro to Web Design
