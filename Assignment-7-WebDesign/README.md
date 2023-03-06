@@ -1,0 +1,2 @@
+It seems nowadays I'm contanstly running into forms on almost any website I visit. Whether it's to login to access the interface. Or them forcing me to sign up for a newsletter to gain access. They serve a purpose by contacting companies, having them be able to contact you. And with passwords and usernames, forms protect your information for certain sites.
+href="images/Screenshot of work.png"
